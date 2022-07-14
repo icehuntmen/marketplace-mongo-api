@@ -1,6 +1,6 @@
 {
   "name": "marketplace-mongo-api",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Backend project for unique marketplace",
   "author": "Unique Network",
   "private": true,
@@ -77,7 +77,7 @@
     "set-interval-async": "^2.0.3",
     "swagger-ui-express": "4.3.0",
     "uuid": "8.3.2",
-    "web3": "^0.20.7"
+    "web3": "^1.7.4"
   },
   "devDependencies": {
     "@compodoc/compodoc": "^1.1.19",
